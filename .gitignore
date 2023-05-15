@@ -380,3 +380,9 @@ poetry.toml
 *.rdb
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,django,redis
+
+# Text backup files
+*.bak
+
+#Database
+*.sqlite3
